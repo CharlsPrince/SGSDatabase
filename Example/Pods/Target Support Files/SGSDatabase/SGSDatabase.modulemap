@@ -1,0 +1,6 @@
+framework module SGSDatabase {
+  umbrella header "SGSDatabase-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SGSDatabase_Example' do
+  pod 'SGSDatabase', :path => '../'
+
+  target 'SGSDatabase_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

@@ -1,0 +1,21 @@
+PODS:
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - SGSDatabase (0.1.0):
+    - FMDB (~> 2.6.2)
+
+DEPENDENCIES:
+  - SGSDatabase (from `../`)
+
+EXTERNAL SOURCES:
+  SGSDatabase:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  SGSDatabase: 65aec16906c7b072743d5290e363085c4409f83e
+
+PODFILE CHECKSUM: 5af6299398c89e69554fca71bdaca07d894e2c3d
+
+COCOAPODS: 1.1.1
