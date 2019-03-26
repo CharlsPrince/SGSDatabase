@@ -12,7 +12,7 @@
 #import <Foundation/Foundation.h>
 
 #if __has_include(<FMDB/FMDB.h>)
-#import <FMDB/FMDB.h>
+#import <fmdb/FMDB.h>
 #else
 #import "FMDB.h"
 #endif

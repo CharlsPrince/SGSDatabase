@@ -1,18 +1,18 @@
 {
   "name": "SGSDatabase",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "键值对形式存储的数据库管理类",
-  "homepage": "http://112.94.224.243:8081/kun.li/sgsdatabase/tree/master",
+  "homepage": "https://github.com/CharlsPrince/SGSDatabase.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "Lee": "kun.li@southgis.com"
+    "CharlsPrince": "961629701@qq.com"
   },
   "source": {
-    "git": "http://112.94.224.243:8081/kun.li/sgsdatabase.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/CharlsPrince/SGSDatabase.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
@@ -21,7 +21,7 @@
   "public_header_files": "SGSDatabase/Classes/**/*.{h}",
   "dependencies": {
     "FMDB": [
-      "~> 2.6.2"
+      "~> 2.7.5"
     ]
   }
 }

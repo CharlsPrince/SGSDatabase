@@ -1,21 +1,25 @@
 PODS:
-  - FMDB (2.6.2):
-    - FMDB/standard (= 2.6.2)
-  - FMDB/standard (2.6.2)
-  - SGSDatabase (0.1.0):
-    - FMDB (~> 2.6.2)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - SGSDatabase (0.1.1):
+    - FMDB (~> 2.7.5)
 
 DEPENDENCIES:
   - SGSDatabase (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
 
 EXTERNAL SOURCES:
   SGSDatabase:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
-  SGSDatabase: 65aec16906c7b072743d5290e363085c4409f83e
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  SGSDatabase: 7f336b159da70cc63b157e42e2c3eae16472fca5
 
 PODFILE CHECKSUM: 5af6299398c89e69554fca71bdaca07d894e2c3d
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.5.3
